@@ -1,0 +1,102 @@
+2021-11-19 21:30:56,442 - coco - INFO - 当前运行环境：test
+2021-11-19 21:30:56,446 - coco - INFO - 当前代理环境:os.path.abspath(os.path.dirname(os.path.dirname(__file__))+'/image/image.png')
+2021-11-19 21:30:56,451 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 21:30:56,456 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 21:31:44,167 - coco - INFO - 当前运行环境：test
+2021-11-19 21:31:44,173 - coco - INFO - 当前代理环境:os.path.abspath(os.path.dirname(os.path.dirname(__file__))+'/image/image.png')
+2021-11-19 21:31:44,177 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 21:31:44,180 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 21:32:09,202 - coco - INFO - 当前运行环境：test
+2021-11-19 21:32:09,209 - coco - INFO - 当前代理环境:os.path.abspath(os.path.dirname(__file__)+'/image/image.png')
+2021-11-19 21:32:09,216 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 21:32:09,221 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 21:32:10,226 - coco - INFO - 添加分类接口运行时间：0.498113
+2021-11-19 21:32:10,801 - coco - INFO - 添加分类接口运行时间：0.525695
+2021-11-19 21:32:11,357 - coco - INFO - 添加分类接口运行时间：0.506063
+2021-11-19 21:32:11,955 - coco - INFO - 添加分类接口运行时间：0.548286
+2021-11-19 22:00:24,934 - coco - INFO - 当前运行环境：test
+2021-11-19 22:00:24,937 - coco - INFO - 当前代理环境:os.path.abspath(os.path.dirname(__file__)+'/image/image.png')
+2021-11-19 22:00:24,940 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:00:24,943 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:00:25,980 - coco - INFO - 添加分类接口运行时间：0.499024
+2021-11-19 22:00:26,549 - coco - INFO - 添加分类接口运行时间：0.513018
+2021-11-19 22:00:27,120 - coco - INFO - 添加分类接口运行时间：0.507636
+2021-11-19 22:00:27,656 - coco - INFO - 添加分类接口运行时间：0.488184
+2021-11-19 22:03:50,620 - coco - INFO - 当前运行环境：test
+2021-11-19 22:03:50,624 - coco - INFO - 当前代理环境:os.path.abspath(os.path.dirname(__file__)+'/image/image.png')
+2021-11-19 22:03:50,627 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:03:50,631 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:03:51,542 - coco - INFO - 添加分类接口运行时间：0.499708
+2021-11-19 22:03:52,134 - coco - INFO - 添加分类接口运行时间：0.524612
+2021-11-19 22:03:52,718 - coco - INFO - 添加分类接口运行时间：0.529213
+2021-11-19 22:03:53,282 - coco - INFO - 添加分类接口运行时间：0.507049
+2021-11-19 22:03:59,201 - coco - INFO - 当前运行环境：test
+2021-11-19 22:03:59,206 - coco - INFO - 当前代理环境:os.path.abspath(os.path.dirname(__file__)+'/image/image.png')
+2021-11-19 22:03:59,209 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:03:59,212 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:04:00,158 - coco - INFO - 添加分类接口运行时间：0.574580
+2021-11-19 22:04:00,708 - coco - INFO - 添加分类接口运行时间：0.498574
+2021-11-19 22:04:01,271 - coco - INFO - 添加分类接口运行时间：0.503260
+2021-11-19 22:04:01,805 - coco - INFO - 添加分类接口运行时间：0.484752
+2021-11-19 22:04:02,351 - coco - INFO - 添加分类接口运行时间：0.497454
+2021-11-19 22:04:02,899 - coco - INFO - 添加分类接口运行时间：0.500397
+2021-11-19 22:04:03,448 - coco - INFO - 添加分类接口运行时间：0.501804
+2021-11-19 22:04:04,005 - coco - INFO - 添加分类接口运行时间：0.509288
+2021-11-19 22:13:35,644 - coco - INFO - 当前运行环境：test
+2021-11-19 22:13:35,652 - coco - INFO - 当前代理环境:os.path.abspath(os.path.dirname(__file__)+'/image/image.png')
+2021-11-19 22:13:35,660 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:13:35,667 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:17:14,687 - coco - INFO - 当前运行环境：test
+2021-11-19 22:17:14,695 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:17:14,698 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:17:33,182 - coco - INFO - 当前运行环境：test
+2021-11-19 22:17:33,190 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:17:33,194 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:19:14,954 - coco - INFO - 当前运行环境：test
+2021-11-19 22:19:14,963 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:19:14,968 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:20:07,588 - coco - INFO - 当前运行环境：test
+2021-11-19 22:20:07,603 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:20:07,607 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:20:15,833 - coco - INFO - 当前运行环境：test
+2021-11-19 22:20:15,841 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:20:15,844 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:20:48,982 - coco - INFO - 当前运行环境：test
+2021-11-19 22:20:48,995 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:20:48,999 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:33:36,869 - coco - INFO - 当前运行环境：test
+2021-11-19 22:33:36,877 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:33:36,880 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:34:48,101 - coco - INFO - 当前运行环境：test
+2021-11-19 22:34:48,109 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:34:48,113 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:34:49,059 - coco - INFO - 添加分类接口运行时间：0.504329
+2021-11-19 22:34:49,608 - coco - INFO - 添加分类接口运行时间：0.487271
+2021-11-19 22:34:50,146 - coco - INFO - 添加分类接口运行时间：0.483475
+2021-11-19 22:34:50,684 - coco - INFO - 添加分类接口运行时间：0.483842
+2021-11-19 22:34:51,229 - coco - INFO - 添加分类接口运行时间：0.489524
+2021-11-19 22:34:51,758 - coco - INFO - 添加分类接口运行时间：0.475859
+2021-11-19 22:34:52,324 - coco - INFO - 添加分类接口运行时间：0.511201
+2021-11-19 22:34:52,851 - coco - INFO - 添加分类接口运行时间：0.475031
+2021-11-19 22:37:58,395 - coco - INFO - 当前运行环境：test
+2021-11-19 22:37:58,402 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:37:58,405 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:37:59,288 - coco - INFO - 添加分类接口运行时间：0.499094
+2021-11-19 22:37:59,849 - coco - INFO - 添加分类接口运行时间：0.498931
+2021-11-19 22:38:00,503 - coco - INFO - 添加分类接口运行时间：0.593011
+2021-11-19 22:38:01,058 - coco - INFO - 添加分类接口运行时间：0.499498
+2021-11-19 22:38:01,642 - coco - INFO - 添加分类接口运行时间：0.531924
+2021-11-19 22:38:02,249 - coco - INFO - 添加分类接口运行时间：0.549592
+2021-11-19 22:38:02,812 - coco - INFO - 添加分类接口运行时间：0.509355
+2021-11-19 22:38:03,382 - coco - INFO - 添加分类接口运行时间：0.507963
+2021-11-19 22:39:33,567 - coco - INFO - 当前运行环境：test
+2021-11-19 22:39:33,574 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-19 22:39:33,577 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-19 22:39:34,507 - coco - INFO - 添加分类接口运行时间：0.506416
+2021-11-19 22:39:35,068 - coco - INFO - 添加分类接口运行时间：0.501420
+2021-11-19 22:39:35,613 - coco - INFO - 添加分类接口运行时间：0.490095
+2021-11-19 22:39:36,165 - coco - INFO - 添加分类接口运行时间：0.500064
+2021-11-19 22:39:36,726 - coco - INFO - 添加分类接口运行时间：0.501545
+2021-11-19 22:39:37,292 - coco - INFO - 添加分类接口运行时间：0.502521
+2021-11-19 22:39:37,841 - coco - INFO - 添加分类接口运行时间：0.493909
+2021-11-19 22:39:38,384 - coco - INFO - 添加分类接口运行时间：0.491139

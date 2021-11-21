@@ -1,0 +1,313 @@
+2021-11-20 13:25:12,722 - coco - INFO - 当前运行环境：test
+2021-11-20 13:25:12,728 - coco - INFO - 当前host地址:{'host': '192.168.0.123', 'user': 'root', 'password': 123456, 'port': 3306, 'database': 'appx'}
+2021-11-20 13:25:12,735 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-20 13:25:12,738 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 13:25:13,070 - coco - INFO - 登录接口运行时间：0.326785
+2021-11-20 13:25:13,131 - coco - INFO - getUserToken接口运行时间：0.059650
+2021-11-20 13:25:13,311 - coco - INFO - 上传图片接口运行时间：0.170850
+2021-11-20 13:29:46,798 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name=coco1033
+    
+2021-11-20 13:30:07,080 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='coco1033'
+    
+2021-11-20 13:33:22,016 - coco - INFO - 当前运行环境：test
+2021-11-20 13:33:22,025 - coco - INFO - 当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': 123456, 'port': 3306, 'database': 'appx'}
+2021-11-20 13:33:22,040 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-20 13:33:22,046 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 13:33:22,272 - coco - INFO - 登录接口运行时间：0.220801
+2021-11-20 13:33:22,338 - coco - INFO - getUserToken接口运行时间：0.063598
+2021-11-20 13:33:22,505 - coco - INFO - 上传图片接口运行时间：0.162014
+2021-11-20 13:36:32,696 - coco - INFO - 当前运行环境：test
+2021-11-20 13:36:32,704 - coco - INFO - 当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 13:36:32,717 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-20 13:36:32,723 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 13:36:32,983 - coco - INFO - 登录接口运行时间：0.256020
+2021-11-20 13:36:33,044 - coco - INFO - getUserToken接口运行时间：0.058372
+2021-11-20 13:36:33,208 - coco - INFO - 上传图片接口运行时间：0.156737
+2021-11-20 13:36:33,237 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 13:36:33,237 - coco - INFO - 删除添加的数据
+2021-11-20 13:36:33,739 - coco - INFO - classificationAdd接口运行时间：0.497039
+2021-11-20 13:36:33,791 - coco - INFO - classificationDelete接口运行时间：0.049923
+2021-11-20 13:36:33,800 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 13:36:33,801 - coco - INFO - 删除添加的数据
+2021-11-20 13:36:34,299 - coco - INFO - classificationAdd接口运行时间：0.494008
+2021-11-20 13:36:34,344 - coco - INFO - classificationDelete接口运行时间：0.041693
+2021-11-20 13:36:34,350 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 13:36:34,350 - coco - INFO - 删除添加的数据
+2021-11-20 13:36:34,852 - coco - INFO - classificationAdd接口运行时间：0.496778
+2021-11-20 13:36:34,900 - coco - INFO - classificationDelete接口运行时间：0.045514
+2021-11-20 13:36:34,916 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 13:36:34,917 - coco - INFO - 删除添加的数据
+2021-11-20 13:36:35,423 - coco - INFO - classificationAdd接口运行时间：0.502389
+2021-11-20 13:36:35,465 - coco - INFO - classificationDelete接口运行时间：0.040030
+2021-11-20 13:37:46,280 - coco - INFO - 当前运行环境：test
+2021-11-20 13:37:46,285 - coco - INFO - 当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 13:37:46,292 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-20 13:37:46,296 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 13:37:46,481 - coco - INFO - 登录接口运行时间：0.180359
+2021-11-20 13:37:46,535 - coco - INFO - getUserToken接口运行时间：0.050249
+2021-11-20 13:37:46,692 - coco - INFO - 上传图片接口运行时间：0.154058
+2021-11-20 15:12:41,781 - coco - INFO - 当前运行环境：test
+2021-11-20 15:12:41,786 - coco - INFO - 当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 15:12:41,798 - coco - INFO - 当前host地址:https://backstageservices.dreawer.com
+2021-11-20 15:12:41,802 - coco - INFO - 当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 15:12:42,073 - coco - INFO - 登录接口运行时间：0.267227
+2021-11-20 15:12:42,132 - coco - INFO - getUserToken接口运行时间：0.056442
+2021-11-20 15:12:42,308 - coco - INFO - 上传图片接口运行时间：0.171102
+2021-11-20 15:12:42,313 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='{'source': ['APPX', 'RETAIL'], 'status': ['DEFAULT', 'DISABLED'], 'name': ['coco4'], 'parentId': [0]}'
+    
+2021-11-20 15:12:42,314 - coco - INFO - 删除添加的数据
+2021-11-20 15:12:42,820 - coco - INFO - classificationAdd接口运行时间：0.500720
+2021-11-20 15:12:42,872 - coco - INFO - classificationDelete接口运行时间：0.047974
+2021-11-20 15:12:42,879 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='{'source': ['APPX', 'RETAIL'], 'status': ['DEFAULT', 'DISABLED'], 'name': ['coco4'], 'parentId': [0]}'
+    
+2021-11-20 15:12:42,879 - coco - INFO - 删除添加的数据
+2021-11-20 15:12:43,393 - coco - INFO - classificationAdd接口运行时间：0.510825
+2021-11-20 15:12:43,436 - coco - INFO - classificationDelete接口运行时间：0.040838
+2021-11-20 15:12:43,462 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='{'source': ['APPX', 'RETAIL'], 'status': ['DEFAULT', 'DISABLED'], 'name': ['coco4'], 'parentId': [0]}'
+    
+2021-11-20 15:12:43,463 - coco - INFO - 删除添加的数据
+2021-11-20 15:12:43,971 - coco - INFO - classificationAdd接口运行时间：0.503106
+2021-11-20 15:12:44,014 - coco - INFO - classificationDelete接口运行时间：0.041253
+2021-11-20 15:12:44,021 - coco - INFO - 执行的sql语句为：
+    DELETE from classification_add where classification_name='{'source': ['APPX', 'RETAIL'], 'status': ['DEFAULT', 'DISABLED'], 'name': ['coco4'], 'parentId': [0]}'
+    
+2021-11-20 15:12:44,021 - coco - INFO - 删除添加的数据
+2021-11-20 15:12:44,521 - coco - INFO - classificationAdd接口运行时间：0.495608
+2021-11-20 15:12:44,567 - coco - INFO - classificationDelete接口运行时间：0.042615
+2021-11-20 15:30:38,205 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.250931
+2021-11-20 15:31:59,622 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.190262
+2021-11-20 15:32:29,735 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.183209
+2021-11-20 15:33:31,328 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.188093
+2021-11-20 15:38:32,748 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\case/data\classificationAdd.yml
+2021-11-20 15:38:59,150 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\case/data\classificationAdd.yml
+2021-11-20 15:38:59,176 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 15:38:59,177 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:38:59,182 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 15:38:59,182 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:38:59,186 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:38:59,190 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 15:38:59,190 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:38:59,195 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 15:38:59,407 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.208170
+2021-11-20 15:38:59,484 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.074641
+2021-11-20 15:38:59,638 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.151173
+2021-11-20 15:38:59,644 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 15:38:59,644 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:39:00,158 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.509177
+2021-11-20 15:39:00,203 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.043686
+2021-11-20 15:39:00,211 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 15:39:00,211 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:39:00,773 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.557985
+2021-11-20 15:39:00,816 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.040481
+2021-11-20 15:39:00,823 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 15:39:00,823 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:39:01,349 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.521273
+2021-11-20 15:39:01,420 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.069223
+2021-11-20 15:39:01,428 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 15:39:01,428 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:39:02,042 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.610278
+2021-11-20 15:39:02,083 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.039609
+2021-11-20 15:41:40,518 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\case/data\classificationAdd.yml
+2021-11-20 15:41:40,544 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 15:41:40,544 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:41:40,548 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 15:41:40,548 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:41:40,552 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:41:40,555 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 15:41:40,555 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:41:40,560 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 15:41:40,777 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.212359
+2021-11-20 15:41:40,837 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.057756
+2021-11-20 15:41:40,874 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.033337
+2021-11-20 15:41:41,098 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.120317
+2021-11-20 15:41:41,290 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.125726
+2021-11-20 15:43:16,821 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\case/data\classificationAdd.yml
+2021-11-20 15:43:16,851 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 15:43:16,852 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:43:16,855 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 15:43:16,856 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:43:16,861 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:43:16,864 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 15:43:16,865 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:43:16,868 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 15:43:17,057 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.185080
+2021-11-20 15:43:17,119 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.057370
+2021-11-20 15:43:17,157 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.034678
+2021-11-20 15:43:17,289 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.125437
+2021-11-20 15:43:17,421 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.124300
+2021-11-20 15:44:21,263 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\case/data\classificationAdd.yml
+2021-11-20 15:44:21,278 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 15:44:21,278 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:44:21,284 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 15:44:21,284 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:44:21,289 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:44:21,293 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 15:44:21,293 [INFO] -- [read_yaml.py:readyml] -- message:读取的文件路径为：E:\coco\appx-api-test-bak\environment.yml
+2021-11-20 15:44:21,296 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 15:44:21,515 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.213652
+2021-11-20 15:44:21,575 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.058323
+2021-11-20 15:44:21,735 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.157438
+2021-11-20 15:44:21,753 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 15:44:21,754 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:44:22,236 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.477526
+2021-11-20 15:44:22,283 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.043964
+2021-11-20 15:44:22,291 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 15:44:22,291 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:44:22,771 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.474853
+2021-11-20 15:44:22,818 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.044433
+2021-11-20 15:44:22,858 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 15:44:22,858 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:44:23,355 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.491536
+2021-11-20 15:44:23,400 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.042164
+2021-11-20 15:44:23,419 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='['coco4']'
+    
+2021-11-20 15:44:23,419 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:44:23,896 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.470795
+2021-11-20 15:44:23,940 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.042345
+2021-11-20 15:47:11,805 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 15:47:11,811 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 15:47:11,822 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 15:47:11,829 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 15:47:12,011 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.175877
+2021-11-20 15:47:12,075 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.062091
+2021-11-20 15:47:12,240 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.160410
+2021-11-20 15:47:12,247 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 15:47:12,247 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:47:12,750 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.497908
+2021-11-20 15:47:12,797 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.042448
+2021-11-20 15:47:12,805 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 15:47:12,805 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:47:13,316 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.505618
+2021-11-20 15:47:13,367 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.047185
+2021-11-20 15:47:13,374 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 15:47:13,375 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:47:13,866 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.487286
+2021-11-20 15:47:13,914 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.044266
+2021-11-20 15:47:13,921 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 15:47:13,921 [INFO] -- [test_classificationAdd.py:dele] -- message:删除添加的数据
+2021-11-20 15:47:14,430 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.504671
+2021-11-20 15:47:14,473 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.039849
+2021-11-20 15:54:18,779 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 15:54:18,784 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 15:54:18,794 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 15:54:18,797 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 15:54:19,047 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.244800
+2021-11-20 15:54:19,111 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.060586
+2021-11-20 15:54:19,282 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.168687
+2021-11-20 22:42:13,105 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 22:42:13,110 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 22:42:13,117 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 22:42:13,122 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 22:42:13,391 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.264095
+2021-11-20 22:42:13,460 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.066862
+2021-11-20 22:42:13,636 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.170623
+2021-11-20 22:42:14,138 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.496589
+2021-11-20 22:42:14,189 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.049127
+2021-11-20 22:42:14,721 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.525127
+2021-11-20 22:42:14,769 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.046638
+2021-11-20 22:42:15,268 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.492597
+2021-11-20 22:42:15,313 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.042519
+2021-11-20 22:42:15,815 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.492642
+2021-11-20 22:42:15,858 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.041174
+2021-11-20 22:42:15,871 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:42:15,871 [INFO] -- [test_classificationAdd.py:start_up] -- message:删除添加的数据
+2021-11-20 22:44:06,791 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 22:44:06,795 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 22:44:06,804 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 22:44:06,808 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 22:44:07,001 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.185851
+2021-11-20 22:44:07,064 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.059564
+2021-11-20 22:44:07,225 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.153801
+2021-11-20 22:44:07,233 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:44:07,234 [INFO] -- [test_classificationAdd.py:delet] -- message:删除添加的数据
+2021-11-20 22:44:07,744 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.502136
+2021-11-20 22:44:07,787 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.041927
+2021-11-20 22:44:07,796 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:44:07,797 [INFO] -- [test_classificationAdd.py:delet] -- message:删除添加的数据
+2021-11-20 22:44:08,300 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.498454
+2021-11-20 22:44:08,347 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.044573
+2021-11-20 22:44:08,375 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:44:08,376 [INFO] -- [test_classificationAdd.py:delet] -- message:删除添加的数据
+2021-11-20 22:44:08,886 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.505351
+2021-11-20 22:44:08,931 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.040637
+2021-11-20 22:44:08,939 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:44:08,940 [INFO] -- [test_classificationAdd.py:delet] -- message:删除添加的数据
+2021-11-20 22:44:09,477 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.532532
+2021-11-20 22:44:09,523 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.042058
+2021-11-20 22:48:21,057 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-20 22:48:21,061 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-20 22:48:21,072 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-20 22:48:21,076 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-20 22:48:21,285 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.205510
+2021-11-20 22:48:21,358 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.069917
+2021-11-20 22:48:21,532 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.168387
+2021-11-20 22:48:22,059 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.521028
+2021-11-20 22:48:22,112 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.051482
+2021-11-20 22:48:22,119 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:48:22,119 [INFO] -- [test_classificationAdd.py:start_up] -- message:删除添加的数据
+2021-11-20 22:48:22,710 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.583850
+2021-11-20 22:48:22,754 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.040858
+2021-11-20 22:48:22,760 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:48:22,761 [INFO] -- [test_classificationAdd.py:start_up] -- message:删除添加的数据
+2021-11-20 22:48:23,360 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.594048
+2021-11-20 22:48:23,403 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.039930
+2021-11-20 22:48:23,410 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:48:23,411 [INFO] -- [test_classificationAdd.py:start_up] -- message:删除添加的数据
+2021-11-20 22:48:24,000 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.582291
+2021-11-20 22:48:24,043 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.040702
+2021-11-20 22:48:24,060 [INFO] -- [classificationAdd.py:db_classificationDelete] -- message:执行的sql语句为：
+    DELETE from classification_add where classification_name='coco4'
+    
+2021-11-20 22:48:24,060 [INFO] -- [test_classificationAdd.py:start_up] -- message:删除添加的数据

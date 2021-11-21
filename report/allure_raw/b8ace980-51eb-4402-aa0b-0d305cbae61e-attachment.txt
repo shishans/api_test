@@ -1,0 +1,9 @@
+2021-11-21 20:19:13,750 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-21 20:19:13,755 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-21 20:19:13,762 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-21 20:19:13,765 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-21 20:19:13,994 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.224872
+2021-11-21 20:19:14,080 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.082435
+2021-11-21 20:19:14,245 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.162496
+2021-11-21 20:19:14,757 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.508300
+2021-11-21 20:19:14,803 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.043668

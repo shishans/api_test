@@ -1,0 +1,111 @@
+2021-11-21 12:19:46,612 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-21 12:19:46,618 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-21 12:19:46,628 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-21 12:19:46,634 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-21 12:19:46,827 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.185654
+2021-11-21 12:19:46,883 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.052205
+2021-11-21 12:19:47,016 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.125748
+2021-11-21 12:19:47,515 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.490968
+2021-11-21 12:19:47,573 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.047787
+2021-11-21 12:19:58,398 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.504093
+2021-11-21 12:19:58,440 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.039257
+2021-11-21 17:51:53,763 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-21 17:51:53,782 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-21 17:51:53,799 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-21 17:51:53,819 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-21 17:51:54,095 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.266132
+2021-11-21 17:51:54,154 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.055175
+2021-11-21 17:51:54,188 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.029693
+2021-11-21 17:51:54,363 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.167475
+2021-11-21 17:51:54,521 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.149334
+2021-11-21 20:08:00,780 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-21 20:08:00,783 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-21 20:08:00,795 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-21 20:08:00,798 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-21 20:08:01,143 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.341823
+2021-11-21 20:08:01,211 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.064476
+2021-11-21 20:08:01,401 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.174142
+2021-11-21 20:08:01,463 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.055281
+2021-11-21 20:08:01,463 [INFO] -- [test_classificationAdd.py:test_classificationAdd_1] -- message:数据库删除新增的分类，sql:
+                DELETE from classification_add where classification_name='coco4'
+                
+2021-11-21 20:08:11,739 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.047841
+2021-11-21 20:08:11,739 [INFO] -- [test_classificationAdd.py:test_classificationAdd_1] -- message:数据库删除新增的分类，sql:
+                DELETE from classification_add where classification_name='coco4'
+                
+2021-11-21 20:08:21,875 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.038313
+2021-11-21 20:08:21,876 [INFO] -- [test_classificationAdd.py:test_classificationAdd_1] -- message:数据库删除新增的分类，sql:
+                DELETE from classification_add where classification_name='coco4'
+                
+2021-11-21 20:08:32,011 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.039639
+2021-11-21 20:08:32,011 [INFO] -- [test_classificationAdd.py:test_classificationAdd_1] -- message:数据库删除新增的分类，sql:
+                DELETE from classification_add where classification_name='coco4'
+                
+2021-11-21 20:08:42,157 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.035269
+2021-11-21 20:08:42,157 [INFO] -- [test_classificationAdd.py:test_classificationAdd_uploadImage_2] -- message:数据库删除新增的分类，sql:
+                DELETE from classification_add where classification_name='coco4'
+                
+2021-11-21 20:11:11,338 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-21 20:11:11,342 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-21 20:11:11,355 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-21 20:11:11,360 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-21 20:11:11,635 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.269430
+2021-11-21 20:11:11,705 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.066098
+2021-11-21 20:11:11,868 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.160458
+2021-11-21 20:11:11,911 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.039600
+2021-11-21 20:11:12,086 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.049553
+2021-11-21 20:11:12,132 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.034332
+2021-11-21 20:11:12,182 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.033686
+2021-11-21 20:11:12,234 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.040651
+2021-11-21 20:11:12,283 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.037516
+2021-11-21 20:11:12,330 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.036330
+2021-11-21 20:11:12,385 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.041448
+2021-11-21 20:12:25,086 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-21 20:12:25,097 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-21 20:12:25,112 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-21 20:12:25,120 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-21 20:12:25,359 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.229800
+2021-11-21 20:12:25,420 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.057253
+2021-11-21 20:12:25,567 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.140342
+2021-11-21 20:12:26,124 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.547653
+2021-11-21 20:12:26,186 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.060972
+2021-11-21 20:12:26,715 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.522610
+2021-11-21 20:12:26,760 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.042456
+2021-11-21 20:12:27,279 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.514843
+2021-11-21 20:12:27,332 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.051499
+2021-11-21 20:12:27,861 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.522302
+2021-11-21 20:12:27,921 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.059027
+2021-11-21 20:12:28,446 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.519345
+2021-11-21 20:12:28,489 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.039962
+2021-11-21 20:12:29,019 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.524498
+2021-11-21 20:12:29,069 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.047108
+2021-11-21 20:12:29,601 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.526696
+2021-11-21 20:12:29,653 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.049176
+2021-11-21 20:12:30,196 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.538118
+2021-11-21 20:12:30,241 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.042602
+2021-11-21 20:19:13,750 [INFO] -- [conftest.py:environment] -- message:当前运行环境：test
+2021-11-21 20:19:13,755 [INFO] -- [conftest.py:dbinfo] -- message:当前数据库为:{'host': '192.168.0.123', 'user': 'root', 'password': '123456', 'port': 3306, 'database': 'appx'}
+2021-11-21 20:19:13,762 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前host地址:https://backstageservices.dreawer.com
+2021-11-21 20:19:13,765 [INFO] -- [conftest.py:getHostAndProxies] -- message:当前代理环境:{'http': 'http://127.0.0.1:8888', 'https': 'http://127.0.0.1:8888'}
+2021-11-21 20:19:13,994 [INFO] -- [login.py:login] -- message:登录接口运行时间：0.224872
+2021-11-21 20:19:14,080 [INFO] -- [getUserToken.py:getUserToken] -- message:getUserToken接口运行时间：0.082435
+2021-11-21 20:19:14,245 [INFO] -- [uploadImage.py:uploadImage] -- message:上传图片接口运行时间：0.162496
+2021-11-21 20:19:14,757 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.508300
+2021-11-21 20:19:14,803 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.043668
+2021-11-21 20:19:15,319 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.503488
+2021-11-21 20:19:15,363 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.042325
+2021-11-21 20:19:15,883 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.509255
+2021-11-21 20:19:15,926 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.039772
+2021-11-21 20:19:16,445 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.507162
+2021-11-21 20:19:16,494 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.048111
+2021-11-21 20:19:17,006 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.501227
+2021-11-21 20:19:17,048 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.040707
+2021-11-21 20:19:17,569 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.509049
+2021-11-21 20:19:17,620 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.048426
+2021-11-21 20:19:18,131 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.501029
+2021-11-21 20:19:18,172 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.039037
+2021-11-21 20:19:18,709 [INFO] -- [classificationAdd.py:classificationAdd] -- message:classificationAdd接口运行时间：0.524685
+2021-11-21 20:19:18,758 [INFO] -- [classificationDelete.py:classificationDelete] -- message:classificationDelete接口运行时间：0.047801
+2021-11-21 20:19:18,804 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.031838
+2021-11-21 20:19:18,938 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.125788
+2021-11-21 20:19:19,071 [INFO] -- [getUserInfo.py:getUserInfo] -- message:getUserToken接口运行时间：0.123839

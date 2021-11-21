@@ -1,0 +1,76 @@
+pytest
+1.怎么写测试用例
+	用例名称必须以test_开头，如果用例在类中，类名以Test开头
+	参数化-解决测试数据的问题
+		单个参数单组数据 @pytest.mark.parametrize('arg',[data])
+		单个参数多组数据 @pytest.mark.parametrize('arg',[data1,data2,data3,data4])
+		多个参数单组数据 @pytest.mark.parametrize('arg1，arg2',[(arg1_data,arg2_data)])
+		多个参数多组数据 @pytest.mark.parametrize('arg1，arg2',[(arg1_data1,arg2_data1),(arg1_data2,arg2_data2)])
+		笛卡尔积 --如下用例数=2*3
+		    @pytest.mark.parametrize('arg1',[arg1_data1,arg1_data2])
+		    @pytest.mark.parametrize('arg2',[arg2_data1,arg2_data2,arg2_data3])
+	断言
+	    assert a == b
+	    assert a != b
+	    assert a in b
+	    assert a not in b
+
+	前置后置 fixture
+	    怎么定义
+            1.函数实现，函数名字名称不固定 -- 如何知道它是前置后置？
+                @pytest.fixture()
+                def 前置/后置():pass
+            2.前置和后置，可以写在一个函数里 --怎么区分哪里是前置哪里是后置
+                @pytest.fixture()
+                def fix():
+                    前置代码
+                    yeild
+                    后置代码
+            3.作用域
+                每个用例都执行一次 @pytest.fixture(scope='function')
+                每个类只执行一次 @pytest.fixture(scope='class')
+                每个模块只执行一次 @pytest.fixture(scope='module')
+                每个包只执行一次 @pytest.fixture(scope='package')
+                整个session只执行一次 @pytest.fixture(scope='session')
+
+            4.共享数据可以放在conftest.py中
+                conftest.py
+                    文件名必须是这个名字
+                    pytest会自动查找，加载进内存里
+                    作用域：当前目录下及下级目录
+                    可以定义多个conftest.py文件，注意作用域问题
+        怎么调用
+            1.在测试函数中作为形参传入
+                def test_case(fixture):pass
+                测试函数的参数只有两种：1.fixture；2.参数化
+            2.在测试函数中可以调用多个fixture函数
+                def test_case(fixture1,fixture2,fixture3):pass
+            3.接收fixture函数的返回值
+                 def test_case(fixture):
+                    r = fixture
+
+	给测试用例分类
+	    在测试用例上加上@pytest.mark.分类名称
+	    执行
+            只执行标记的用例：pytest -m 分类名称
+            执行标记外的用例：pytest -m 'not 分类名称'
+        可以给测试用例加上多个标记
+
+    跳过用例-skip
+
+2.怎么收集测试用例
+	特点：自动收集测试用例
+	如何收集
+	    运行pytest时会自动生成rootdir=当前目录
+		遍历当前目录及下级目录，去找以test_开头或以_test结尾的文件
+		然后去这些文件中
+		    找以Test开头的类下以test_开头的函数
+		    找以test_开头的函数
+
+3.怎么运行测试用例
+    pytest test_xx.py --自动运行这个文件下所有的测试用例
+    pytest --自动运行收集到的所有测试用例
+        -s 打印详情的运行日志
+        -m 打印mark标记的测试用例
+
+4.怎么生成报告

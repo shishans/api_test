@@ -1,0 +1,30 @@
+# 测试环境
+test:
+  host: https://backstageservices.dreawer.com
+  proxies:
+    http: http://127.0.0.1:8888
+    https: http://127.0.0.1:8888
+  phoneNumber: 15527060286
+  password: hbc23687
+  file_path: os.path.abspath(os.path.dirname(__file__)+'/image/image.png')
+  db:
+    host: 192.168.0.123
+    user: root
+    password: '123456'
+    port: 3306
+    database: appx
+
+pro:
+  host: https://backstageservices.dreawer.com
+  proxies:
+    http: http://127.0.0.1:8888
+    https: http://127.0.0.1:8888
+  phoneNumber: 15527060286
+  password: hbc23687
+  db:
+    host:
+    user:
+    password:
+    port:
+    database:
+

@@ -1,0 +1,24 @@
+case1:
+  source:
+    - APPX
+    - RETAIL
+  status:
+    - DEFAULT
+    - DISABLED
+  name:
+    - 试试中文1
+  parentId:
+    - 0
+
+case2:
+  source:
+    - APPX
+    - RETAIL
+  status:
+    - DEFAULT
+    - DISABLED
+  name:
+    - 试试中文2
+  parentId:
+    - 0
+
