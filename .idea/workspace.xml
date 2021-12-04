@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20tOIwHvYCvk6HZ71pHNHDSDs9I" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,11 +26,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/case/testCase" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\api_test\case\testCase" />
       <recent name="E:\coco\appx-api-test-bak\common" />
       <recent name="E:\coco\appx-api-test-bak\case\data" />
       <recent name="E:\coco\appx-api-test-bak\case\func" />

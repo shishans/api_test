@@ -15,17 +15,8 @@ class ClassificationAdd():
         self.url = host+'/gc/classification/add'
 
     @allure.step('添加分类')
-    def classificationAdd(self,name,
-                          parentId,
-                          status,
-                          source,
-                          sequence=None,
-                          logo=None,
-                          introduction=None,
-                          url=None,
-                          recommend=None,
-                          remark=None,
-                          proxies=None):
+    def classificationAdd(self,name,parentId,status,source,sequence=None,logo=None,introduction=None,
+                          url=None,recommend=None,remark=None,proxies=None):
         data = {
             'name':name,
             'parentId':parentId,
