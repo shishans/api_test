@@ -40,6 +40,7 @@ class TestClassificationDelete():
         assert r['code'] == '000000'
 
     @allure.story('删除不存在的分类id，删除失败')
+    @allure.issue('https://ums.dreawer.com/#/login?type=login')
     @pytest.mark.parametrize('classificationId',['1234akjfdjhgfieuur'])
     def test_classificationDelete_fail(self,start_up,classificationId):
         add, dele, add, proxies = start_up
@@ -49,6 +50,7 @@ class TestClassificationDelete():
         assert r['code'] == '112030'
 
     @allure.story('检查必填项分类id为空')
+    @allure.testcase('https://www.baidu.com/')
     @pytest.mark.parametrize('classificationId',[''])
     def test_classificationDelete_sucess(self,start_up,classificationId):
         add, dele, add, proxies = start_up
