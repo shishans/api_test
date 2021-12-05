@@ -13,8 +13,9 @@ curPath = os.path.dirname(__file__)
 yamlFilePath = os.path.join(curPath, 'environment.yml')
 
 def pytest_addoption(parser):
+    '''往pytest里添加参数'''
     parser.addoption(
-        '--environment', action='store''', default='test', help='运行环境选择：test/pro，默认test环境'
+        '--environment', action='store', default='test', help='运行环境选择：test/pro，默认test环境'
     )
 
 @pytest.fixture(scope='session',autouse=True)
@@ -46,5 +47,7 @@ def dbinfo(environment):
     db = readyml(yamlFilePath)[env]['db']
     logger.info('当前数据库为:%s'%db)
     return db
+
+
 
 
